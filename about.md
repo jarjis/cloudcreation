@@ -1,20 +1,16 @@
 ---
 layout: page
-title: About
+title: 'Cloud Creation '
 permalink: /about/
+
 ---
+Our Focus
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+### Cloud Native Innovation Focus 
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
-
-## Themes
+## Cloud 
 This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
+
 
 <!-- | Config setting | Thumbnail |
 | --- | --- |
@@ -22,7 +18,7 @@ This theme comes in two color variations. The default is set to the `light` them
 | `theme_color: red` | <img width="330" alt="red" src="url"> | -->
 
 
-## Installation
+## Remote First, and Remote Only 
 
 Add this line to your Jekyll site's Gemfile:
 
